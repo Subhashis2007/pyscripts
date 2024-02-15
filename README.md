@@ -1,5 +1,5 @@
 # Pyscripts
-    - A collection of python scripts I made for personal usage.
+A collection of python scripts I made for personal usage.
 
 ## pw_link_converter.py
 
